@@ -1,3 +1,2 @@
-# myPortfolio
-Hosted at - https://manjuchandan.github.io/myPortfolio/
-:sunglasses:
+# myPortfolio :sunglasses:
+https://manjuchandan.github.io/ManjuSharma/
