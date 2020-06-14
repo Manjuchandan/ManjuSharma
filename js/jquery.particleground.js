@@ -380,8 +380,8 @@
     directionX: 'up', // 'center', 'left' or 'right'. 'center' = dots bounce off edges
     directionY: 'down', // 'center', 'up' or 'down'. 'center' = dots bounce off edges
     density: 10000, // How many particles will be generated: one particle every n pixels
-    dotColor: '#1B4F72',
-    lineColor: '#1B4F72',
+    dotColor: '#FF5733',
+    lineColor: '#FF5733',
     particleRadius: 9, // Dot size
     lineWidth: 1,
     curvedLines: false,
